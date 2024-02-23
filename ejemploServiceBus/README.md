@@ -10,6 +10,6 @@ En este nuevo link contiene el código del cliente ejemplo sobre un tutorial de 
 
 [Link para ver el tutorial](https://learn.microsoft.com/es-es/azure/service-bus-messaging/service-bus-tutorial-topics-subscriptions-portal)
 
-[Codigo fuente del tutorial](./azure-service-bus/)
+[Codigo fuente del tutorial](./azureServiceBusExample/)
 Este código fuenta está obtenido del [siguiete github](https://github.com/Azure/azure-service-bus.git)
 
