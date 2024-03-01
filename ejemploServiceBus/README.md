@@ -13,3 +13,11 @@ En este nuevo link contiene el código del cliente ejemplo sobre un tutorial de 
 [Codigo fuente del tutorial](./ServiceBusEjemploDeInventario/)
 Este código fuenta está obtenido del [siguiete github](https://github.com/Azure/azure-service-bus.git)
 
+## Respuesta a eventos de Azure Service Bus recibidos mediante Azure Event Grid utilizando Azure Logic Apps
+
+[Link para ver el tutoria](https://learn.microsoft.com/es-es/azure/service-bus-messaging/service-bus-to-event-grid-integration-example)
+
+[Codigo fuente del tutorial](./eventosRecibidosEventGrid/)
+
+**En este tutorial es importante remarcar que se ha quitado los recursos de web logic y el event bus premium por tema de recursos. Se ha hecho en todos los tutoriales pero en este es especialmente importante remarcarlo.** 
+
